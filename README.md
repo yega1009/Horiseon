@@ -21,7 +21,10 @@ N/A
 - The sidebar also includees marketing strategies such as lead generation, brand awareness, and cost management.
 - All in all, users can utilize this website to learn about important marketing strategies and services Horiseon provides.
 
-[alt text](assets/images/screenshot.png)
+## Screenshot of the website
+![Screenshot 1](./assets/images/image-top.png)
+![Screenshot 2](./assets/images/image-centre.png)
+![Screenshot 3](./assets/images/image-bottom.png)
 
 ## Credits
 
